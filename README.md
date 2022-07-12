@@ -1,10 +1,10 @@
-# DCTDAO Classic Exchange Interface
+# ENEDEX Classic Exchange Interface
 
 Forked from [sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/sushiswap-classic-exchange), and updated to Moonbeam network.
 
-## Accessing the DCTDAO Exchange Interface
+## Accessing the ENEDEX Exchange Interface
 
-To access the DCTDAO Exchange, visit [dctdao](https://dctdao.org)
+To access the ENEDEX Exchange, visit [enedex](https://enedex.org)
 
 ## Development
 
